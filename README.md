@@ -1,2 +1,3 @@
 # Git Developer Practice
 Few Basic commands practice done!
+Today is 2nd November 2026.....
