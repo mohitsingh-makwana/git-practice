@@ -1,5 +1,4 @@
-# Git Developer Practice
-Few Basic commands practice done!
-Today is 2nd November 2026.....
-There will be a match on 4th Nov. between India vs Newzeland.
-Profile feature is under development.
+##Profile Feature
+- Users can view their profile.
+- Users can update their personal information.
+- Users can change their profile picture.
